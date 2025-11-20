@@ -1,4 +1,6 @@
-# makeup.katalog
+# makeup.katalog & Link Gdrive Laporan
+
+Gdrive : https://drive.google.com/drive/folders/1N1HpewbRrHokSWgRTzFBTcHe9ES_O0Ob?usp=drive_link
 
 1. tampilan Splash Screen
 <img width="625" height="891" alt="Katalog Makeup - Your Chrome - Microsoft​ Edge 19_11_2025 00_40_36" src="https://github.com/user-attachments/assets/a9c4ec9f-67ae-4a23-a54c-7071e987b65d" />
